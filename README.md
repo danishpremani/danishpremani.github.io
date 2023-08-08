@@ -1,9 +1,9 @@
 ### H3
 
-*This*
+*This is my personal projects pages*
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Project       | Type                   | Progress   |
+| ------------- |:----------------------:| -=====----:|
+| Tableau       | Data Visualization     | In process |
+| SQL Qery      | Database               |   Start    |
+| Lucid Charts  | Flow Process Maps      |   Start    |
