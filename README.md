@@ -25,4 +25,4 @@
   
 ![image](https://github.com/danishpremani/danishpremani.github.io/assets/83044359/e83ccd40-9872-468f-8529-48d5a39201fe)
 
-<img width="1019" alt="Screenshot 2023-08-08 at 11 11 26 AM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/df251d6c-7df1-4926-8275-9f7f1d681697">
+<img width="500" alt="Screenshot 2023-08-08 at 11 11 26 AM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/df251d6c-7df1-4926-8275-9f7f1d681697">
