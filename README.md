@@ -10,3 +10,15 @@
 
 
 ![Alt Text] (https://danishpremani.github.io/Screenshot 2023-08-08 at 11.11.26 AM.png)
+
+## Internship Experience 
+### WFM Business Analyst at CoreLogic
+
+* Some of my achievements include:-
+* •	Conduct a detailed analysis of the Help Desk process and created process maps using Lucid Charts, saving 26 hours of manual work per month, and resulting in a 17.3 % efficient process. 
+•	Recommended self-reporting techniques using CRM that would reduce ticket creation time and result in a 41.5% efficiency. 
+•	Created interactive and user-friendly Tableau dashboards to track KPI’s and be used for data-driven decisions, resulting in a 13% performance boost.
+•	Presented analysis findings to key stakeholders using a 30+ slide presentation 
+•	Utilized R and Python for advanced data analysis
+![image](https://github.com/danishpremani/danishpremani.github.io/assets/83044359/e83ccd40-9872-468f-8529-48d5a39201fe)
+
