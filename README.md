@@ -47,8 +47,8 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 
 
 -----------------
------------------
-
+________________
+*****************
 
 ### PERSONAL PROJECTS GITHUB 
 
