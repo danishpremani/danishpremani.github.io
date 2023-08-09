@@ -62,7 +62,13 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 
 
 
-Tableau
+
+
+
+
+
+
+### Tableau Project
 
 <img width="927" alt="Screenshot 2023-08-08 at 10 38 44 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/e2134bfa-50d2-420d-8c2f-9b97bce37e2f">
 
