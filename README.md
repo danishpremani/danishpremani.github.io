@@ -50,15 +50,15 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 
 
 ### PERSONAL PROJECTS GITHUB 
+#### Used Jira for tracking Projects
 
-*This is my personal projects pages*
 
 | Project       | Type                   | Progress   |
 | ------------- |:----------------------:| ----------:|
 | Tableau       | Data Visualization     | In process |
 | SQL Query     | Database               |   Start    |
 | Lucid Charts  | Flow Process Maps      |   Start    |
-
+|R or Python    | Language               |   Start    |
 
 
 
@@ -73,3 +73,20 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 <img width="927" alt="Screenshot 2023-08-08 at 10 38 44 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/e2134bfa-50d2-420d-8c2f-9b97bce37e2f">
 
 Used database containing various key infomration related to Home Prices from 2000 to 2022
+
+
+
+
+### SQL Project
+
+Will use dataset to make deduction and use formulas such as Joins etc
+
+
+### Lucid Charts
+
+Will Map out process of a help desk process that I can find online
+
+
+### R Language or Python
+
+Will write basic code and try to use pandas to solve stuff
