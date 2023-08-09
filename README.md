@@ -1,3 +1,39 @@
+## Danish Premani
+### University of Texas at Dallas
+### B.S Information Technology and Systems
+### Rising Senior (Anticipated Graduation: 2024)
+### https://www.linkedin.com/in/danish-premani/
+
+#### Technical Skills
+
+Tableau
+Java
+C++
+SQL
+MS Suite (Microsoft Office Suite)
+Python
+DBMS (Database Management Systems)
+Lucid Charts
+Think-Cell
+Trello
+Power BI
+Telephony Systems
+R language
+Jira
+
+Soft Skills
+
+Analytical Thinking
+Critical Thinking
+Problem-Solving
+Attention to Detail
+Communication
+Collaboration
+Adaptability
+Time Management
+
+----------
+
 ## Internship Experience 
 ### WFM Business Analyst at CoreLogic
 #### Irving, Texas 
