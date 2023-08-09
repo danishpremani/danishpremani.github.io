@@ -1,8 +1,8 @@
 ## Danish Premani
 ### University of Texas at Dallas
-### B.S Information Technology and Systems
-### Rising Senior (Anticipated Graduation: 2024)
-### https://www.linkedin.com/in/danish-premani/
+#### B.S Information Technology and Systems
+#### Rising Senior (Anticipated Graduation: 2024)
+#### https://www.linkedin.com/in/danish-premani/
 
 #### Technical Skills
 
