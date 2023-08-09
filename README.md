@@ -64,4 +64,6 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 
 Tableau
 
-<img width="750" alt="Screenshot 2023-08-08 at 11 11 26 AM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/df251d6c-7df1-4926-8275-9f7f1d681697">
+<img width="927" alt="Screenshot 2023-08-08 at 10 38 44 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/e2134bfa-50d2-420d-8c2f-9b97bce37e2f">
+
+Used database containing various key infomration related to Home Prices from 2000 to 2022
