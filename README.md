@@ -21,7 +21,7 @@ Telephony Systems ,
 R language , 
 Jira
 
-Soft Skills
+#### Soft Skills
 
 Analytical Thinking , 
 Critical Thinking ,
