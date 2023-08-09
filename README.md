@@ -6,31 +6,31 @@
 
 #### Technical Skills
 
-Tableau
-Java
-C++
-SQL
-MS Suite (Microsoft Office Suite)
-Python
-DBMS (Database Management Systems)
-Lucid Charts
-Think-Cell
-Trello
-Power BI
-Telephony Systems
-R language
+Tableau ,
+Java ,
+C++ , 
+SQL ,
+MS Suite (Microsoft Office Suite) , 
+Python , 
+DBMS (Database Management Systems) , 
+Lucid Charts , 
+Think-Cell ,
+Trello , 
+Power BI ,
+Telephony Systems , 
+R language , 
 Jira
 
 Soft Skills
 
-Analytical Thinking
-Critical Thinking
-Problem-Solving
-Attention to Detail
-Communication
-Collaboration
-Adaptability
-Time Management
+Analytical Thinking , 
+Critical Thinking ,
+Problem-Solving ,
+Attention to Detail ,
+Communication ,
+Collaboration ,
+Adaptability ,
+Time Management ,
 
 ----------
 
