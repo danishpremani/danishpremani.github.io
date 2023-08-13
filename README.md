@@ -114,8 +114,32 @@ Used database containing various key infomration related to Home Prices from 200
 
 
 ### SQL Project
+DROP TABLE Insurance;
+DROP TABLE Emergency_contact;
+DROP TABLE Billing;
+DROP TABLE Staff;
+DROP TABLE MEDICAL_RECORDS;
+DROP TABLE PATIENT;
+DROP TABLE Employee_Paycheck;
 
-Will use dataset to make deduction and use formulas such as Joins etc
+
+
+-- Create table for Patient entity
+CREATE TABLE Patient (
+    Patient_ID INT PRIMARY KEY,
+    Patient_First_Name VARCHAR(50),
+    Patient_Last_Name VARCHAR(50),
+    Patient_Gender CHAR(1),
+    Patient_Age INT,
+    Patient_Address VARCHAR(100),
+    Patient_Phone_Number VARCHAR(15),
+    Patient_Diagnosis VARCHAR(100)
+);
+(shows Creation of Tables and Patient Entity)
+
+
+<img width="803" alt="Screenshot 2023-08-13 at 2 17 17 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/73b19374-b9a3-48b4-bcfe-8ffd80c61ce2">
+
 
 
 ### Lucid Charts
