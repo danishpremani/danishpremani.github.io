@@ -92,8 +92,8 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 | Project       | Type                   | Progress   |
 | ------------- |:----------------------:| ----------:|
 | Tableau       | Data Visualization     | In process |
-| SQL Query     | Database               |   Start    |
-| Lucid Charts  | Flow Process Maps      |   Start    |
+| SQL Query     | Script                 | In process |
+| Lucid Charts  | Flow Process Maps      | In process |
 |R or Python    | Language               |   Start    |
 
 
@@ -113,7 +113,9 @@ Used database containing various key infomration related to Home Prices from 200
 
 
 
-### SQL Project
+### SQL and Lucid Charts
+
+
 DROP TABLE Insurance;
 DROP TABLE Emergency_contact;
 DROP TABLE Billing;
@@ -135,18 +137,14 @@ CREATE TABLE Patient (
     Patient_Phone_Number VARCHAR(15),
     Patient_Diagnosis VARCHAR(100)
 );
+
+
 (shows Creation of Tables and Patient Entity)
 
 
 <img width="803" alt="Screenshot 2023-08-13 at 2 17 17 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/73b19374-b9a3-48b4-bcfe-8ffd80c61ce2">
 
 
-
-### Lucid Charts
-
-Will Map out process of a help desk process that I can find online
-
-
 ### R Language or Python
 
-Will write basic code and try to use pandas to solve stuff
+
