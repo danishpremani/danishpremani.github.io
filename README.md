@@ -113,8 +113,7 @@ Used database containing various key infomration related to Home Prices from 200
 
 
 
-### SQL and Lucid Charts
-
+### SQL Script and Statements
 
 DROP TABLE Insurance;
 DROP TABLE Emergency_contact;
@@ -141,6 +140,18 @@ CREATE TABLE Patient (
 
 (shows Creation of Tables and Patient Entity)
 
+This query joins two tables (patient and Medical Records) and displays data that consists of patient first and last name, medical records and treatment
+
+SELECT p.Patient_First_Name, p.Patient_Last_Name, m.Medical_Record, m.Treatment FROM Patient p
+
+INNER JOIN Medical_Records m ON p.Patient_ID = m.Patient_ID;
+
+<img width="909" alt="Screenshot 2023-08-14 at 2 37 42 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/3ebf0056-1a2f-4f1a-83a4-dd21743215a9">
+
+
+
+
+### Lucid Charts
 
 <img width="803" alt="Screenshot 2023-08-13 at 2 17 17 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/73b19374-b9a3-48b4-bcfe-8ffd80c61ce2">
 
