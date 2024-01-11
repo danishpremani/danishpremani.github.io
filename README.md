@@ -94,7 +94,7 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 | Tableau       | Data Visualization     | In process |
 | SQL Query     | Script                 | In process |
 | Lucid Charts  | Flow Process Maps      | In process |
-|R or Python    | Language               |   Start    |
+|R or Python    | Language               | In process |
 
 
 
@@ -158,4 +158,4 @@ INNER JOIN Medical_Records m ON p.Patient_ID = m.Patient_ID;
 
 ### R Language or Python
 
-
+(found in github)
