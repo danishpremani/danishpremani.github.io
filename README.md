@@ -157,5 +157,11 @@ INNER JOIN Medical_Records m ON p.Patient_ID = m.Patient_ID;
 
 
 ### R Language or Python
+#### Mortgage Calculator
 
-(found in github)
+<img width="1011" alt="Screenshot 2024-01-15 at 1 34 15 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/110ca4c6-2756-4077-8751-41b9b3f0ca23">
+
+
+#### Turtle Race Betting Game
+<img width="1361" alt="Screenshot 2024-01-15 at 1 37 04 PM" src="https://github.com/danishpremani/danishpremani.github.io/assets/83044359/eaa5385a-da0f-4786-9c95-70c2f0872ad6">
+
