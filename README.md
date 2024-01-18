@@ -89,16 +89,6 @@ During Spring 2023, I interned as a Business Analyst at RAVE, gaining insights i
 #### Used Jira for tracking Projects
 
 
-| Project       | Type                   | Progress   |
-| ------------- |:----------------------:| ----------:|
-| Tableau       | Data Visualization     | In process |
-| SQL Query     | Script                 | In process |
-| Lucid Charts  | Flow Process Maps      | In process |
-|R or Python    | Language               | In process |
-
-
-
-
 ### R Language or Python
 #### Mortgage Calculator
 
